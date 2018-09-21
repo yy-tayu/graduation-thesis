@@ -1,0 +1,30 @@
+[33mcommit 0385778c8f424770b1e61e125abc07dbbb004ac8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 宇 塔 <tayu.mymail@gmail.com>
+Date:   Fri Sep 21 21:44:05 2018 +0800
+
+    some changes
+
+[33mcommit 5389277772d84c55756487ca9db6ff44f1dc707e[m
+Merge: fa9c742 f4b433e
+Author: 宇 塔 <tayu.mymail@gmail.com>
+Date:   Fri Sep 21 21:17:03 2018 +0800
+
+    Merge branch 'master' of https://github.com/yy-tayu/graduation-thesis
+
+[33mcommit f4b433ef418a8414807f4559bebab5f7a649e5fe[m
+Author: ta yu <tayu.mymail@gmail.com>
+Date:   Fri Sep 21 21:16:37 2018 +0800
+
+    添加图片
+
+[33mcommit fa9c742c1c3d8a6402e6ea157cbe160e737e9acd[m
+Author: 宇 塔 <tayu.mymail@gmail.com>
+Date:   Fri Sep 21 21:13:51 2018 +0800
+
+    上传 母校logo
+
+[33mcommit f1050e67bfa71eb7b1bcb2bf1c07c98f4f6fb46c[m
+Author: ta yu <tayu.mymail@gmail.com>
+Date:   Fri Sep 21 21:08:54 2018 +0800
+
+    Initial commit
